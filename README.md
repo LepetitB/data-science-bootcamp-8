@@ -9,5 +9,5 @@ My data porfolio for dat analyst role
 - Data transformation
 - Data visulization
 - Statistic
-- Machine learing for data analys
-- 
+- Machine learing for data analyst
+You can find me in https://www.facebook.com/
